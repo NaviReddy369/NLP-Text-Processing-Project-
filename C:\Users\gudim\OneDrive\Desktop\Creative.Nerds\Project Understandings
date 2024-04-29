@@ -54,7 +54,7 @@
         "import numpy as np\n",
         "\n",
         "fig, ax = plt.subplots()\n",
-        "ax.text(0.5, 0.5, 'Creative Nerds', color='red', fontsize=45, ha='center', va='center', transform=ax.transAxes)\n",
+        "ax.text(0.5, 0.5, 'Creative.Nerds.Ai', color='red', fontsize=45, ha='center', va='center', transform=ax.transAxes)\n",
         "ax.set_facecolor('yellow')\n",
         "ax.set_xticks([])\n",
         "ax.set_yticks([])\n",
